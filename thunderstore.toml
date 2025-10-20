@@ -5,9 +5,9 @@ schemaVersion = "0.0.1"
 [package]
 namespace = "mozzarellathicc"
 name = "Aspect_of_Momus_Buffs"
-versionNumber = "0.0.1"
+versionNumber = "1.0.0"
 description = "Lowers the Momus cooldown by 0.5 seconds."
-websiteUrl = "https://github.com/AuthorName/ModName"
+websiteUrl = "https://github.com/mozzarellathicc/momus-buffs"
 containsNsfwContent = false
 
 [package.dependencies]
